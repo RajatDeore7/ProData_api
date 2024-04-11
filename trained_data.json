@@ -1,0 +1,37 @@
+[
+    {
+        "id": "20504",
+        "coefficients": "-0.03850749400623906",
+        "intercept": "26.789985224746843",
+        "imageUrl": "/Model_Images/img_20504.jpg",
+        "model":"Polynomial"
+    },
+    {
+        "id": "33594",
+        "coefficients": "0.0, -8.349894294309866, 0.503738998668551, -0.009852163777408052",
+        "intercept": "801.5914070193478",
+        "imageUrl": "/Model_Images/img_33594.jpg",
+        "model":"Polynomial"
+    },
+    {
+        "id": "38943",
+        "coefficients": "-16.12105426",
+        "intercept": "604.9672398197335",
+        "imageUrl": "/Model_Images/img_38943.jpg",
+        "model": "Logarithmic"
+    },
+    {
+        "id": "39852",
+        "coefficients": "-8.44902625",
+        "intercept": "282.37284167774123",
+        "imageUrl": "/Model_Images/img_39852.jpg",
+        "model": "Logarithmic"
+    },
+    {
+        "id": "44158",
+        "coefficients": "-4.08830876",
+        "intercept": "188.35121586137916",
+        "imageUrl": "/Model_Images/img_44158.jpg",
+        "model": "Logarithmic"
+    }
+]
